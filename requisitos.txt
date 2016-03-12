@@ -1,0 +1,22 @@
+Elementos de la página
+
+	Reseña de asincorp
+	A que se dedica
+	Servicios
+	Proyectos
+	Productos
+	Contactenos
+	Redes sociales
+	Equipo de trabajo
+	Clientes
+	Teléfono, Dirección, Correo
+
+Páginas del portal
+
+En todas las páginas se mantienen las redes sociales, contactenos, datos de contacto, 
+1. inicio (Banner, Reseña de asincorp, a que se dedica, servicios en carrusel, proyectos)
+2. Servicios
+3. Productos
+4. Equipo de trabajo
+5. Clientes
+6. Contáctenos y datos de contacto
